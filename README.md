@@ -1,21 +1,17 @@
 # Bibliographic Study
 
-**Topic:** _TODO_
+The aim of this repo is to organize myself while I can work on finding and making sense of the relevant papers/articles/conferences etc. for our research question as part of Research Methodologies course.
 
 ## Scope
-- **RQ1:** 
-- **RQ2:** 
-- **Include:** 
-- **Exclude:** 
+- **RQ:** How does training data quality and quantity affect language model performance on low-resource languages?
 
 ## Files
-- [NOW.md](NOW.md): what I'm working on right now
-- [reading-list.md](reading-list.md): papers to read / done / dropped, plus search log
-- [papers/](papers/): one review + PDF per paper (copy `_template.md`)
-- [topics.md](topics.md): topics to study
-- [notes/](notes/): my notes (copy `_template.md`)
+- [papers/reading-list.md](papers/reading-list.md): papers to read / done / dropped, plus search log
+- [papers/](papers/): one review + PDF per paper (if I find it) (copy `_template.md`)
+- [notes/topics_to_study.md](notes/topics_to_study.md): topics to study
+- [notes/](notes/): my notes
 - [findings.md](findings.md): conclusions across papers
-- [references.bib](references.bib): BibTeX
+- [papers/references.bib](papers/references.bib): BibTeX
 
 **Naming:** each paper has one key, e.g. `smith-2021-transformers`, used for
 `papers/smith-2021-transformers.md`, `papers/smith-2021-transformers.pdf` and the BibTeX entry.
